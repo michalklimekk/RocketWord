@@ -4,7 +4,7 @@ This repository contains supplementary materials related to the RocketWord metho
 
 RocketWord is a time series classification framework based on the following pipeline:
 
-Time series → ROCKET feature extraction → symbolic discretization → 1-NN classification.
+Time series → ROCKET feature extraction → symbolic discretization → 1-nn classification.
 
 At the current stage, this repository provides documentation of the experimental setup and empirical results used in the evaluation. The full implementation and the corresponding publication will be added after formal publication of the paper.
 
