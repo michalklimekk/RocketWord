@@ -24,7 +24,7 @@ The repository includes materials describing the experimental setting and compar
 - `algorithms.pdf` contains a list of the state-of-the-art methods used for comparative analysis.
 - `results/` contains experimental results obtained under different ROCKET configurations. This includes:
   - main results using 1000 ROCKET kernels (averaged over 10 runs),
-  - additional experiments analysing performance as a function of the number of ROCKET kernels (averaged over 5 runs),
+  - additional experiments analysing performance as a function of the number of ROCKET kernels (averaged over 3 runs),
   - supplementary statistical summaries where applicable.
 
 Performance is evaluated using classification accuracy, which is reported as the primary metric since the benchmark datasets are class-balanced.
